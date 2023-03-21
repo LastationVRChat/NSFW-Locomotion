@@ -5,4 +5,4 @@ This adds, NSFW poses, new menu layout, trimming of some unnecessary menu items 
 
 Do NOT have NSFW GoGoLoco in the project with GoGoLoco they share similar Menu/Layer names and will confilct.
 
-Tutorial Video: https://lastation.tech/videos/GoGoLoco_Tutorial.mp4
+Tutorial Video:
