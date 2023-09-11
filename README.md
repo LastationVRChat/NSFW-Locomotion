@@ -1,4 +1,4 @@
-![KaliLocomotion](NSFW Loco.png)
+![KaliLocomotion](NSFWLoco.png)
 My custom NSFW version of GoGoLoco 1.8.0, which I use on all my models. I have also trimmed it down a bit. (It has all that regular GoGoLoco has except flight.)
 
 This adds NSFW poses, a new menu layout, and trimming of some unnecessary menu items to slim down.
