@@ -1,3 +1,5 @@
+# This Project is on hold.
+
 ![KaliLocomotion](NSFWLoco.png)
 My custom NSFW version of GoGoLoco, which I use on all my models. I have also trimmed it down a bit. (It has all that regular GoGoLoco has except flight.)
 
