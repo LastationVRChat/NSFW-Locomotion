@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: 1DirectSubMenuInt
+  m_EditorClassIdentifier: 
+  controls:
+  - name: 3 Blue
+    icon: {fileID: 2800000, guid: 32c55aabfa33a184893f0f2de5fe1686, type: 3}
+    type: 102
+    parameter:
+      name: 3/ColorsInt
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: 3 Red
+    icon: {fileID: 2800000, guid: 11c1931e9a04f994cb47631de56b3e58, type: 3}
+    type: 102
+    parameter:
+      name: 3/ColorsInt
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: 3 Grey
+    icon: {fileID: 2800000, guid: 3d2cd1f005708a6439d96075015f3e37, type: 3}
+    type: 102
+    parameter:
+      name: 3/ColorsInt
+    value: 0
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: 3
+    icon: {fileID: 2800000, guid: ecda9555172208e46b498500755d061c, type: 3}
+    type: 102
+    parameter:
+      name: 3
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

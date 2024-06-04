@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: GoMenuEmotes49_56
+  m_EditorClassIdentifier: 
+  controls:
+  - name: <b>49
+    icon: {fileID: 2800000, guid: 745b06ef49b3c7f4b9b03bb339dfd2aa, type: 3}
+    type: 102
+    parameter:
+      name: VRCEmote
+    value: 49
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <b>50
+    icon: {fileID: 2800000, guid: 745b06ef49b3c7f4b9b03bb339dfd2aa, type: 3}
+    type: 102
+    parameter:
+      name: VRCEmote
+    value: 50
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <b>51
+    icon: {fileID: 2800000, guid: 745b06ef49b3c7f4b9b03bb339dfd2aa, type: 3}
+    type: 102
+    parameter:
+      name: VRCEmote
+    value: 51
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <b>52
+    icon: {fileID: 2800000, guid: 745b06ef49b3c7f4b9b03bb339dfd2aa, type: 3}
+    type: 102
+    parameter:
+      name: VRCEmote
+    value: 52
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <b>53
+    icon: {fileID: 2800000, guid: 745b06ef49b3c7f4b9b03bb339dfd2aa, type: 3}
+    type: 102
+    parameter:
+      name: VRCEmote
+    value: 53
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <b>54
+    icon: {fileID: 2800000, guid: 745b06ef49b3c7f4b9b03bb339dfd2aa, type: 3}
+    type: 102
+    parameter:
+      name: VRCEmote
+    value: 54
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <b>55
+    icon: {fileID: 2800000, guid: 745b06ef49b3c7f4b9b03bb339dfd2aa, type: 3}
+    type: 102
+    parameter:
+      name: VRCEmote
+    value: 55
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <b>56
+    icon: {fileID: 2800000, guid: 745b06ef49b3c7f4b9b03bb339dfd2aa, type: 3}
+    type: 102
+    parameter:
+      name: VRCEmote
+    value: 56
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
