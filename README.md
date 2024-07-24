@@ -1,4 +1,4 @@
-# This Project is getting updated soon!!
+# This Project is getting updated soon!
 
 ![KaliLocomotion](NSFWLoco1MB.png)
 My custom NSFW version of GoGoLoco, which I use on all my models. I have also trimmed it down a bit. (It has all that regular GoGoLoco has except flight.)
