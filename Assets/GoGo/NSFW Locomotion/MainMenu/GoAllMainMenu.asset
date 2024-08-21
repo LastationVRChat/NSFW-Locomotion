@@ -12,9 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
   m_Name: GoAllMainMenu
   m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: 839214bfcc622254eba684fa5faa1d12, type: 2}
   controls:
   - name: <b>GoGo Loco
-    icon: {fileID: 2800000, guid: 82ab53a641de2f1448023168217721eb, type: 3}
+    icon: {fileID: 2800000, guid: 6b9495f1e8fe78d41b9a82fd2c1fc362, type: 3}
     type: 103
     parameter:
       name: 

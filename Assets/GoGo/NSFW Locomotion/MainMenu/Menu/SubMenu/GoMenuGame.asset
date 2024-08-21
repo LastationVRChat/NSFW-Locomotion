@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
   m_Name: GoMenuGame
   m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
   controls:
   - name: 
     icon: {fileID: 2800000, guid: b35213a6ce5cb014bb369811479a8738, type: 3}

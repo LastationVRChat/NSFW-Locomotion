@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
   m_Name: GoMenuEmotes
   m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
   controls:
   - name: <b>Default
     icon: {fileID: 2800000, guid: 7ed33a9777353974482d46a7590219c3, type: 3}
