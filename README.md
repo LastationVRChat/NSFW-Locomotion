@@ -1,9 +1,34 @@
-# This Project is getting updated soon!!
+# NSFW Locomotion (Unity 2019 - Poses Only Version)
 
-![KaliLocomotion](NSFWLoco1MB.png)
-My custom NSFW version of GoGoLoco, which I use on all my models. I have also trimmed it down a bit. (It has all that regular GoGoLoco has except flight.)
+A custom NSFW version of [GoGo Loco](https://teeth-fetch-gdl.craft.me/CxY701Ne9Ng5Ev) v1.8.3 (by [Franada](https://twitter.com/franadaVRC))
 
-This adds NSFW poses, a new menu layout, and trimming of some unnecessary menu items to slim down.
+![NSFW Locomotion Banner](https://github.com/LastationVRChat/NSFW-Locomotion/blob/main/media/NSFWLoco1MB.png)
 
-Do NOT have NSFW GoGoLoco in the project with GoGoLoco they share similar Menu/Layer names and will confilct.
-It now includes installer prefabs for VRCFury: https://github.com/VRCFury/VRCFury
+> [!IMPORTANT]
+> **Do NOT include both NSFW GoGo Loco and regular GoGo Loco in the same project, as they share similar Menu/Layer names and will conflict.**
+
+## Features
+
+This version works for Unity 2019, it includes:
+
+- Custom AFK Animation (by [WetCat](https://wetcat.gumroad.com/))
+- Custom Turntable Animation (by [LastationVRChat](https://github.com/LastationVRChat/))
+- NSFW Poses (by [LastationVRChat](https://github.com/LastationVRChat/))
+- Streamlined Menu that matches the latest GoGo Loco Menu Layout
+
+> [!NOTE]
+> Currently does not support GogoLoco Beyond.
+>
+> We do plan, however, to add support in the future!
+
+## Installation
+
+Since this project includes installer prefabs for [VRCFury](https://vrcfury.com/), the process of installation is quite easy. Follow these steps:
+
+1. [Download the Latest Release](https://github.com/LastationVRChat/NSFW-Locomotion/releases/latest).
+2. Import the latest release into your project.
+3. [Add VRCFury to the VRChat Creator Companion](https://vrcfury.com/download).
+4. Add the latest [VRCFury](https://vrcfury.com/) to your project with the VRChat Creator Companion.
+5. Drag the respective prefab that you want to use into your avatar's hierarchy:
+   - `GogoLoco All (VRCFury).prefab` **if Write Defaults = OFF**
+   - `GogoLoco All WD (VRCFury).prefab` **if Write Defaults = ON**
