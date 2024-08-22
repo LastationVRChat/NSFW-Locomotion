@@ -68,9 +68,9 @@ MonoBehaviour:
         - controller:
             version: 1
             fileID: 9100000
-            guid: 4485bd5c6aea29e48bf1428a18876fcc
-            id: 4485bd5c6aea29e48bf1428a18876fcc|Assets/GoGo/NSFW Locomotion/ControllersWD/GoLocoActionWD.controller
-            objRef: {fileID: 9100000, guid: 4485bd5c6aea29e48bf1428a18876fcc, type: 2}
+            guid: 767956353eaccf4479cd8b801e5b164d
+            id: 767956353eaccf4479cd8b801e5b164d|Assets/GoGo/NSFW Locomotion/ControllersWD/GoLocoActionWD.controller
+            objRef: {fileID: 9100000, guid: 767956353eaccf4479cd8b801e5b164d, type: 2}
           type: 4
         - controller:
             version: 1
