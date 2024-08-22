@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.jeffjadulco.guidregenerator": {
+      "version": "1.0.5",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://package.openupm.com"
+    },
     "com.unity.burst": {
       "version": "1.4.11",
       "depth": 1,
