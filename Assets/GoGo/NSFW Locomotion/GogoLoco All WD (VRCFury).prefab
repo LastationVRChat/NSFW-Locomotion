@@ -70,9 +70,9 @@ MonoBehaviour:
         - controller:
             version: 1
             fileID: 9100000
-            guid: 4485bd5c6aea29e48bf1428a18876fcc
-            id: 4485bd5c6aea29e48bf1428a18876fcc|Assets/GoGo/Kury Locomotion/ControllersWD/GoLocoActionWD.controller
-            objRef: {fileID: 9100000, guid: 4485bd5c6aea29e48bf1428a18876fcc, type: 2}
+            guid: 85eaf4c413193474792804bb234aab88
+            id: 85eaf4c413193474792804bb234aab88|Assets/GoGo/Kury Locomotion/ControllersWD/GoLocoActionWD.controller
+            objRef: {fileID: 9100000, guid: 85eaf4c413193474792804bb234aab88, type: 2}
           type: 4
         - controller:
             version: 1
