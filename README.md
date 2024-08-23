@@ -1,11 +1,23 @@
+<div align="center">
+
 # NSFW Locomotion (Unity 2022 - Poses Only Version)
 
-A custom NSFW version of [GoGo Loco](https://teeth-fetch-gdl.craft.me/CxY701Ne9Ng5Ev) v1.8.3 (by [Franada](https://twitter.com/franadaVRC))
+A custom **NSFW** version of [GoGo Loco](https://teeth-fetch-gdl.craft.me/CxY701Ne9Ng5Ev) v1.8.3 (by [Franada](https://twitter.com/franadaVRC))
+
+---------------------------------------
+
+[![GitHub License](https://img.shields.io/github/license/LastationVRChat/NSFW-Locomotion?style=for-the-badge&labelColor=c92078&color=e33b92)](https://github.com/LastationVRChat/NSFW-Locomotion/blob/main/LICENSE)
+[![GitHub Downloads](https://img.shields.io/github/downloads/LastationVRChat/NSFW-Locomotion/total?style=for-the-badge&labelColor=c92078&color=e33b92)](https://github.com/LastationVRChat/NSFW-Locomotion/releases/latest)
+[![Static Badge](https://img.shields.io/badge/Maintained%20By-KuryKat-696969?style=for-the-badge&labelColor=c92078&color=e33b92)](https://vrchat.com/home/user/usr_88edd638-41f7-4b86-81d2-425589e38828)
 
 ![NSFW Locomotion Banner](https://github.com/LastationVRChat/NSFW-Locomotion/blob/main/media/NSFWLoco1MB.png)
 
+</div>
+
 > [!IMPORTANT]
 > **Do NOT include both NSFW GoGo Loco and regular GoGo Loco in the same project, as they share similar Menu/Layer names and will conflict.**
+
+---------------------------------------
 
 ## Features
 
