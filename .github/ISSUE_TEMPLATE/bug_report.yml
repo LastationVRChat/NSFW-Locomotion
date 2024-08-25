@@ -1,0 +1,135 @@
+name: Bug Report
+description: Report an issue to help us improve
+labels: [ "Bug 🐛" ]
+assignees: [ KuryKat ]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+      
+        ## Before submitting your issue please:
+        
+        - Check if the **Issues section** has a similar issue.
+
+  - type: input
+    id: version
+    attributes:
+      label: "The project version"
+      description: |
+        "'Latest' is not a valid answer, please write the exact version number."
+        If this is not the most recently released upstream version, then please check first if it has been fixed already.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: unity-version
+    attributes:
+      label: "Which Unity Version are you using?"
+      multiple: false
+      options:
+        - '2022.3.43f1'
+        - '2022.3.42f1'
+        - '2022.3.41f1'
+        - '2022.3.40f1'
+        - '2022.3.39f1'
+        - '2022.3.38f1'
+        - '2022.3.37f1'
+        - '2022.3.36f1'
+        - '2022.3.35f1'
+        - '2022.3.34f1'
+        - '2022.3.33f1'
+        - '2022.3.32f1'
+        - '2022.3.31f1'
+        - '2022.3.30f1'
+        - '2022.3.29f1'
+        - '2022.3.28f1'
+        - '2022.3.27f1'
+        - '2022.3.26f1'
+        - '2022.3.25f1'
+        - '2022.3.24f1'
+        - '2022.3.23f1'
+        - '2022.3.22f1'
+        - '2019.4.40f1'
+        - '2019.4.39f1'
+        - '2019.4.38f1'
+        - '2019.4.37f1'
+        - '2019.4.36f1'
+        - '2019.4.35f1'
+        - '2019.4.34f1'
+        - '2019.4.33f1'
+        - '2019.4.32f1'
+        - '2019.4.31f1'
+        - 'Other'
+    validations:
+      required: true
+  
+  - type: input
+    id: other-unity-version
+    attributes:
+      label: "Other Unity Version"
+      description: "If you answered 'Other' above, please specify the exact Unity version."
+    validations:
+      required: false
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "Describe your issue."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: Steps to reproduce the problem
+    validations:
+      required: false
+  
+  - type: input
+    id: logs
+    attributes:
+      label: "Logs"
+      description: "If you require to give log context, upload your logs to [https://pastebin.com/](https://pastebin.com/) and paste a link to it here."
+    validations:
+      required: false
+    
+  - type: dropdown
+    id: modified-project
+    attributes:
+      label: "Have you modified the project?"
+      description: "Have you added poses, emotes, changed controllers, changed menus or anything like that?"
+      options:
+        - 'No'
+        - 'Yes'
+    validations:
+      required: true
+
+  - type: textarea
+    id: user-modifications
+    attributes:
+      label: "User Modifications"
+      description: "If you answered 'Yes' above, please briefly explain what you have modified."
+    validations:
+      required: false
+
+  - type: dropdown
+    id: environment
+    attributes:
+      label: "Did the issue happen in-game or on Unity Editor?"
+      multiple: false
+      options:
+        - 'In-game'
+        - 'Unity Editor'
+        - 'Both'
+    validations:
+      required: true
+
+  - type: input
+    id: discord-username
+    attributes:
+      label: "Discord Username"
+      description: "If you are in the [Lastation Discord Server](https://discord.gg/lastation) and wouldn't mind being asked further questions there, if required, leave your username here."
+      placeholder: username#0000
+    validations:
+      required: false

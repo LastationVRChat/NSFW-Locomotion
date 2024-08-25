@@ -1,0 +1,88 @@
+name: Feature Request
+description: Suggest an improvement to the project
+labels: [ "Suggestion 💡" ]
+assignees: [ KuryKat ]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this feature request!
+        
+        ## Before making a suggestion please:
+        
+        - Check for similar suggestions in the **Issues & Discussions sections**.
+
+  - type: input
+    id: version
+    attributes:
+      label: "The project version that you checked that didn't have the feature you are asking for"
+      description: |
+        "'Latest' is not a valid answer, please write the exact version number."
+        If this is not the most recently released upstream version, then please check first if it has that feature already.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: unity-version
+    attributes:
+      label: "Which Unity Version are you using?"
+      multiple: false
+      options:
+        - '2022.3.43f1'
+        - '2022.3.42f1'
+        - '2022.3.41f1'
+        - '2022.3.40f1'
+        - '2022.3.39f1'
+        - '2022.3.38f1'
+        - '2022.3.37f1'
+        - '2022.3.36f1'
+        - '2022.3.35f1'
+        - '2022.3.34f1'
+        - '2022.3.33f1'
+        - '2022.3.32f1'
+        - '2022.3.31f1'
+        - '2022.3.30f1'
+        - '2022.3.29f1'
+        - '2022.3.28f1'
+        - '2022.3.27f1'
+        - '2022.3.26f1'
+        - '2022.3.25f1'
+        - '2022.3.24f1'
+        - '2022.3.23f1'
+        - '2022.3.22f1'
+        - '2019.4.40f1'
+        - '2019.4.39f1'
+        - '2019.4.38f1'
+        - '2019.4.37f1'
+        - '2019.4.36f1'
+        - '2019.4.35f1'
+        - '2019.4.34f1'
+        - '2019.4.33f1'
+        - '2019.4.32f1'
+        - '2019.4.31f1'
+        - 'Other'
+    validations:
+      required: true
+  
+  - type: input
+    id: other-unity-version
+    attributes:
+      label: "Other Unity Version"
+      description: "If you answered 'Other' above, please specify the exact Unity version."
+    validations:
+      required: false
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe your suggestion
+      description: What would you like added/changed?
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why would you like this added/changed?
+    validations:
+      required: true
