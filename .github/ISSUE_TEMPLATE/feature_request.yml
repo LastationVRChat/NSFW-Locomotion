@@ -17,7 +17,7 @@ body:
     attributes:
       label: "The project version that you checked that didn't have the feature you are asking for"
       description: |
-        "'Latest' is not a valid answer, please write the exact version number."
+        'Latest' is not a valid answer, please write the exact version number.
         If this is not the most recently released upstream version, then please check first if it has that feature already.
     validations:
       required: true

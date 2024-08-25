@@ -17,7 +17,7 @@ body:
     attributes:
       label: "The project version"
       description: |
-        "'Latest' is not a valid answer, please write the exact version number."
+        'Latest' is not a valid answer, please write the exact version number.
         If this is not the most recently released upstream version, then please check first if it has been fixed already.
     validations:
       required: true
