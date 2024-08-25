@@ -37,7 +37,7 @@ body:
   - type: input
     id: other-unity-version
     attributes:
-      label: "Other Unity Version"
+      label: "Other Unity Version?"
       description: "If you answered 'Other' above, please specify the exact Unity version."
     validations:
       required: false
@@ -52,9 +52,16 @@ body:
   - type: textarea
     id: steps-to-reproduce
     attributes:
-      label: Steps to reproduce the problem
+      label: "Steps to reproduce the problem:"
+      description: "How do you trigger this bug? Please walk us through it step by step."
+      value: |
+        1.
+        2.
+        3.
+        ...
+      render: bash
     validations:
-      required: false
+      required: true
   
   - type: input
     id: logs
