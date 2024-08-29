@@ -6,11 +6,8 @@
     "vrchat.blackstartx.gesture-manager": {
       "version": "3.9.2"
     },
-    "com.vrchat.avatars": {
-      "version": "3.7.0"
-    },
     "com.vrcfury.vrcfury": {
-      "version": "1.1007.0"
+      "version": "1.1013.0"
     }
   },
   "locked": {
@@ -35,7 +32,7 @@
       "dependencies": {}
     },
     "com.vrcfury.vrcfury": {
-      "version": "1.1007.0",
+      "version": "1.1013.0",
       "dependencies": {}
     }
   }
