@@ -1,6 +1,6 @@
 NSFW Locomotion (Unity 2019 - Full Version)
 
-Version 1.8.3-NSFW-1.0.0
+Version 1.8.3-NSFW-1.0.1
 
 A custom NSFW version of GoGo Loco v1.8.3
 
