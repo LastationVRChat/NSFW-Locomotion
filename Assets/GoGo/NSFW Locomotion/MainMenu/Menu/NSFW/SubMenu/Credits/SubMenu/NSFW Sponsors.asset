@@ -16,7 +16,7 @@ MonoBehaviour:
   controls:
   - name: You!
     icon: {fileID: 2800000, guid: 85002308910c26a4daa86c1be937b504, type: 3}
-    type: 102
+    type: 101
     parameter:
       name: 
     value: 1
