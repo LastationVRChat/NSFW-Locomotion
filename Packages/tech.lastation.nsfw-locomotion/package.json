@@ -1,0 +1,23 @@
+{
+	"name" : "tech.lastation.nsfw-locomotion",
+	"displayName" : "NSFW Locomotion",
+	"version" : "1.1.0",
+	"unity" : "2022.3",
+	"description" : "A custom NSFW version of GoGo Loco.",
+	"type" : "tool",
+	"license": "MIT",
+	"url" : "https://github.com/LastationVRChat/NSFW-Locomotion/archive/refs/tags/v1.1.0.zip",
+	"author" : {
+		"name" : "LastationVRChat",
+		"email" : "contact@lastation.tech",
+		"url" : "https://github.com/LastationVRChat/NSFW-Locomotion"
+	},
+	"legacyFolders" : {
+		"Assets\\GoGo" : "2b8f15685d481504a92010e67ff86e4b",
+		"Assets\\GoGo\\NSFW Locomotion" : "1915f35154c7ba348b0c5f1746387923"
+	},
+	"vpmDependencies" : {
+		"com.vrchat.avatars" : ">=3.5.0 < 3.8.X",
+		"com.vrcfury.vrcfury": ">=1.1000.0 < 1.1014.X"
+	}
+}

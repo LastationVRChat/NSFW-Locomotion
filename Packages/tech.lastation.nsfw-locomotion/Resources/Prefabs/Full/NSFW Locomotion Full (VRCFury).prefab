@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2413884078021275527
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2766904067275572336}
+  - component: {fileID: 1361160402015103240}
+  m_Layer: 0
+  m_Name: NSFW Locomotion Full (VRCFury)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2766904067275572336
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2413884078021275527}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1361160402015103240
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2413884078021275527}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9e94e501a2d4c95bff3d5601013d923, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 3
+  unityVersion: 2022.3.22f1
+  vrcfuryVersion: 1.1013.0
+  somethingIsBroken: 0
+  config:
+    features: []
+  content:
+    rid: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 0
+      type: {class: FullController, ns: VF.Model.Feature, asm: VRCFury}
+      data:
+        version: 4
+        controllers:
+        - controller:
+            version: 1
+            fileID: 9100000
+            guid: bde5983a4f3eaa149ba18853e5bf4c4c
+            id: f0eb4443b18594c43813f6ffeb2dbe8a|Packages/tech.lastation.nsfw-locomotion/Resources/Shared/Controllers/GoLocoBase.controller
+            objRef: {fileID: 9100000, guid: f0eb4443b18594c43813f6ffeb2dbe8a, type: 2}
+          type: 0
+        - controller:
+            version: 1
+            fileID: 9100000
+            guid: 4485bd5c6aea29e48bf1428a18876fcc
+            id: 1863ae6c944b73343abbbefe18125e0f|Packages/tech.lastation.nsfw-locomotion/Resources/Version/Full/Controllers/GoLocoAction.controller
+            objRef: {fileID: 9100000, guid: 1863ae6c944b73343abbbefe18125e0f, type: 2}
+          type: 4
+        - controller:
+            version: 1
+            fileID: 9100000
+            guid: 22aa2a9fb13faf540afa2a5c86efd0c4
+            id: d75f14b0507340640b969cd6c4c51359|Packages/tech.lastation.nsfw-locomotion/Resources/Shared/Controllers/GoLocoSitting.controller
+            objRef: {fileID: 9100000, guid: d75f14b0507340640b969cd6c4c51359, type: 2}
+          type: 6
+        - controller:
+            version: 1
+            fileID: 0
+            guid: 
+            id: 2e96ef8dd5c6a2c478db2c296acd8e16|Packages/tech.lastation.nsfw-locomotion/Resources/Shared/Controllers/GoLocoTPose.controller
+            objRef: {fileID: 9100000, guid: 2e96ef8dd5c6a2c478db2c296acd8e16, type: 2}
+          type: 7
+        - controller:
+            version: 1
+            fileID: 0
+            guid: 
+            id: 053f861701fe8564eb060da651087f11|Packages/tech.lastation.nsfw-locomotion/Resources/Shared/Controllers/GoLocoGesture.controller
+            objRef: {fileID: 9100000, guid: 053f861701fe8564eb060da651087f11, type: 2}
+          type: 3
+        menus:
+        - menu:
+            version: 1
+            fileID: 11400000
+            guid: f8b5ce0378996b342b99e5a40691d855
+            id: f8b5ce0378996b342b99e5a40691d855|Packages/tech.lastation.nsfw-locomotion/Resources/Shared/MainMenu/GoAllMainMenu.asset
+            objRef: {fileID: 11400000, guid: f8b5ce0378996b342b99e5a40691d855, type: 2}
+          prefix: 
+        prms:
+        - parameters:
+            version: 1
+            fileID: 11400000
+            guid: 839214bfcc622254eba684fa5faa1d12
+            id: 839214bfcc622254eba684fa5faa1d12|Packages/tech.lastation.nsfw-locomotion/Resources/Shared/MainMenu/GoAllParameters.asset
+            objRef: {fileID: 11400000, guid: 839214bfcc622254eba684fa5faa1d12, type: 2}
+        smoothedPrms: []
+        globalParams:
+        - Go/Float
+        - Go/PoseRadial
+        - Go/Stationary
+        - Go/Locomotion
+        - Go/Jump&Fall
+        - Go/CrouchIdle
+        - Go/ProneIdle
+        - Go/Swimming
+        - Go/PuppetX
+        - Go/PuppetY
+        allNonsyncedAreGlobal: 0
+        ignoreSaved: 0
+        toggleParam: 
+        rootObjOverride: {fileID: 0}
+        rootBindingsApplyToAvatar: 1
+        rewriteBindings: []
+        allowMissingAssets: 0
+        controller:
+          version: 1
+          fileID: 0
+          guid: 
+          id: 
+          objRef: {fileID: 0}
+        menu:
+          version: 1
+          fileID: 0
+          guid: 
+          id: 
+          objRef: {fileID: 0}
+        parameters:
+          version: 1
+          fileID: 0
+          guid: 
+          id: 
+          objRef: {fileID: 0}
+        submenu: 
+        removePrefixes: []
+        addPrefix: 
+        useSecurityForToggle: 0

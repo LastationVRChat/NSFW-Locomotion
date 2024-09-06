@@ -88,10 +88,9 @@ ProjectVersion.txt
 
 # Include
 !.vscode/**
-!Assets/GoGo/**
-!Assets/GoGo.meta
 !Assets/.gitkeep
 !ProjectSettings/**
+!Packages/tech.lastation.nsfw-locomotion/**
 !Packages/manifest.json
 !Packages/packages-lock.json
 !Packages/vpm-manifest.json
@@ -114,3 +113,4 @@ Assets/VRWorldToolkit/
 Assets/Udon Starter Kit
 Assets/USK Resources
 Assets/VRCBilliardsCE
+UIElementsSchema
