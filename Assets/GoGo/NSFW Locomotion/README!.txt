@@ -1,6 +1,6 @@
 NSFW Locomotion (Unity 2022 - Poses Only Version)
 
-Version 1.8.3-NSFW-1.0.1
+Version 1.8.3-NSFW-1.1.0
 
 A custom NSFW version of GoGo Loco v1.8.3
 
