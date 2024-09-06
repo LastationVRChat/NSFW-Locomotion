@@ -6,7 +6,7 @@
 	"description" : "A custom NSFW version of GoGo Loco.",
 	"type" : "tool",
 	"license": "MIT",
-	"url" : "https://github.com/LastationVRChat/NSFW-Locomotion/archive/refs/tags/v1.1.0.zip",
+	"url" : "https://github.com/LastationVRChat/NSFW-Locomotion/releases/download/v1.8.3-NSFW-1.1.0/NSFW_Locomotion_v1.1.0.zip",
 	"author" : {
 		"name" : "LastationVRChat",
 		"email" : "contact@lastation.tech",
