@@ -1,10 +1,10 @@
 <div align="center">
 
-# NSFW Locomotion (Unity 2022 - Full Version)
+# NSFW Locomotion (Unity 2022)
 
 A custom **NSFW** version of [GoGo Loco](https://teeth-fetch-gdl.craft.me/CxY701Ne9Ng5Ev) v1.8.3 (by [Franada](https://twitter.com/franadaVRC))
 
-[![Download Now](https://github.com/LastationVRChat/NSFW-Locomotion/blob/main/media/Download_Button.png)](https://github.com/LastationVRChat/NSFW-Locomotion/releases/download/v1.8.3-NSFW-1.0.0/NSFW.Locomotion-v1.8.3-NSFW-1.0.0-Full.unitypackage)
+[![Download Now](https://github.com/LastationVRChat/NSFW-Locomotion/blob/main/media/Download_Button.png)](https://lastationvrchat.github.io/Lastation-Package-Listing/)
 
 ---------------------------------------
 
@@ -24,27 +24,63 @@ A custom **NSFW** version of [GoGo Loco](https://teeth-fetch-gdl.craft.me/CxY701
 
 ## Features
 
-This version works for Unity 2022, it includes:
+NSFW Locomotion for Unity 2022 includes two versions:
 
-- Custom AFK Animation (by [WetCat](https://wetcat.gumroad.com/))
-- Custom Turntable Animation (by [LastationVRChat](https://github.com/LastationVRChat/))
-- NSFW Poses (by [LastationVRChat](https://github.com/LastationVRChat/))
-- NSFW Emotes (by [LastationVRChat](https://github.com/LastationVRChat/))
-- Streamlined Menu that matches the latest GoGo Loco Menu Layout
+1. **Full Version**:
+   - Custom AFK Animation (by [WetCat](https://wetcat.gumroad.com/))
+   - Custom Turntable Animation (by [LastationVRChat](https://github.com/LastationVRChat/))
+   - NSFW Poses (by [LastationVRChat](https://github.com/LastationVRChat/))
+   - NSFW Emotes (by [LastationVRChat](https://github.com/LastationVRChat/))
+   - Streamlined Menu that matches the latest GoGo Loco Menu Layout
+
+2. **Poses Version**:
+   - Custom AFK Animation (by [WetCat](https://wetcat.gumroad.com/))
+   - Custom Turntable Animation (by [LastationVRChat](https://github.com/LastationVRChat/))
+   - NSFW Poses (by [LastationVRChat](https://github.com/LastationVRChat/))
+   - Streamlined Menu that matches the latest GoGo Loco Menu Layout
 
 > [!NOTE]
-> Currently does not support GogoLoco Beyond.
->
-> We do plan, however, to add support in the future!
+> Currently does not support GoGoLoco Beyond, but future updates may add support.
 
 ## Installation
 
-Since this project includes installer prefabs for [VRCFury](https://vrcfury.com/), the process of installation is quite easy. Follow these steps:
+The installation process is now simplified with the [Lastation Package Listing (LPL)](https://lastationvrchat.github.io/Lastation-Package-Listing/) and [VRChat Creator Companion (VCC)](https://vcc.docs.vrchat.com/). This project relies on [VRCFury](https://vrcfury.com/download/) for seamless setup. Follow the steps below:
 
-1. [Download the Latest Release](https://github.com/LastationVRChat/NSFW-Locomotion/releases/latest).
-2. Import the latest release into your project.
-3. [Add VRCFury to the VRChat Creator Companion](https://vrcfury.com/download).
-4. Add the latest [VRCFury](https://vrcfury.com/) to your project with the VRChat Creator Companion.
-5. Drag the respective prefab that you want to use into your avatar's hierarchy:
-   - `GogoLoco All (VRCFury).prefab` **if Write Defaults = OFF**
-   - `GogoLoco All WD (VRCFury).prefab` **if Write Defaults = ON**
+1. **Add the LPL to VCC**:
+   - Go to the [VRChat Creator Companion (VCC)](https://vcc.docs.vrchat.com/) and add the [Lastation Package Listing (LPL)](https://lastationvrchat.github.io/Lastation-Package-Listing/) as a custom package repository.
+
+   ![LPL Added to VCC](https://github.com/LastationVRChat/NSFW-Locomotion/blob/main/media/LPLonVCC.png)
+
+2. **Install NSFW Locomotion**:
+   - Find the NSFW Locomotion package in the [LPL](https://lastationvrchat.github.io/Lastation-Package-Listing/) and install it via [VCC](https://vcc.docs.vrchat.com/).
+
+   ![NSFW Locomotion Package Installed](https://github.com/LastationVRChat/NSFW-Locomotion/blob/main/media/NSFWLocoOnVCC.png)
+
+3. **Open the NSFW Locomotion Menu in Unity**:
+   - In Unity, navigate to the toolbar and open the menu: **LastationVRChat => NSFW Locomotion**.
+
+   ![NSFW Locomotion Menu](https://github.com/LastationVRChat/NSFW-Locomotion/blob/main/media/NSFWLocoMenu.png)
+
+4. **Add Your Avatar**:
+   - Drag your avatar into the input, or select it using the picker in the NSFW Locomotion menu.
+
+   ![Avatar Selector](https://github.com/LastationVRChat/NSFW-Locomotion/blob/main/media/NSFWLocoAviSelector.png)
+
+5. **Choose the Version**:
+   - Select either the "Full Version" or "Poses Version" based on your preference.
+
+   ![Version Selector](https://github.com/LastationVRChat/NSFW-Locomotion/blob/main/media/NSFWLocoVerSelector.png)
+
+6. **Ensure VRCFury is Installed**:
+   - Make sure VRCFury is installed in your project via VCC. The NSFW Locomotion package requires VRCFury to work correctly.
+
+   ![VRCFury Installed](https://github.com/LastationVRChat/NSFW-Locomotion/blob/main/media/VRCFuryOnVCC.png)
+
+7. **Done!**
+   - Your chosen version will be installed, and you can start using the NSFW Locomotion with your avatar.
+
+   ![NSFW Locomotion Installed](https://github.com/LastationVRChat/NSFW-Locomotion/blob/main/media/NSFWLocoInstalled.png)
+
+---------------------------------------
+
+Enjoy using NSFW Locomotion! If you have any issues or suggestions, please check the repository's [Issues page](https://github.com/LastationVRChat/NSFW-Locomotion/issues) or reach out to us on [Discord](https://discord.gg/lastation).
