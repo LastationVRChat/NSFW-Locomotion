@@ -4,7 +4,7 @@
 
 A custom **NSFW** version of [GoGo Loco](https://teeth-fetch-gdl.craft.me/CxY701Ne9Ng5Ev) v1.8.3 (by [Franada](https://twitter.com/franadaVRC))
 
-[![Download Now](https://github.com/LastationVRChat/NSFW-Locomotion/blob/main/media/Download_Button.png)](https://github.com/LastationVRChat/NSFW-Locomotion/releases/download/v1.8.3-NSFW-1.0.1/NSFW.Locomotion-v1.8.3-NSFW-1.0.1-Full.unitypackage)
+[![Download Now](https://github.com/LastationVRChat/NSFW-Locomotion/blob/main/media/Download_Button.png)](https://github.com/LastationVRChat/NSFW-Locomotion/releases/download/v1.8.3-NSFW-1.1.0/NSFW.Locomotion-v1.8.3-NSFW-1.1.0-Full.unitypackage)
 
 ---------------------------------------
 
