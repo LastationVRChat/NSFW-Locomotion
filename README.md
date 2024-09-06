@@ -62,7 +62,7 @@ We highly recommend using the [VRChat Creator Companion (VCC)](https://vcc.docs.
 3. **Ensure VRCFury is Installed**:
    - Make sure [VRCFury](https://vrcfury.com/download/) is installed via VCC. NSFW Locomotion requires VRCFury for seamless setup.
 
-   ![VRCFury Installed](./media/VRCFonVCC.png)
+   ![VRCFury Installed](./media/VRCFuryOnVCC.png)
 
 4. **Select Your Version and Install**:
    - In Unity, navigate to the toolbar: **LastationVRChat => NSFW Locomotion**, then select your avatar and choose either the "Full Version" or "Poses Version."
