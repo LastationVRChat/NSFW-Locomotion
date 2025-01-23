@@ -28,10 +28,6 @@ NSFW Locomotion for VRChat Avatars is a highly customizable and dynamic movement
 
 ## Features
 - **GoGo Loco Replacer:** Adds all base GoGo Loco functions, ensuring seamless integration and a familiar user experience.
-- **IK Integration:** Full Inverse Kinematics support ensures realistic body positioning and interactions with objects and avatars.
-- **Custom Animation Slots:** Easily integrate your own animations or adapt the system to your avatar’s unique requirements.
-- **Smooth Transitions:** Enables fluid transition between poses and emotes, enhancing the realism and responsiveness of avatar interactions.
-- **Motion Time for Two-Frame Poses:** Utilizes motion time to smoothly float between two frames, enabling subtle actions within the pose, such as spreading legs or shifting body weight.
 - **One Click Install:** Simplifies the setup process using VRCfury and our custom editor script, which automatically assigns the NSFW Locomotion prefab to your avatar with a single click.
 - **Two Specialized Versions:** 
   - **NSFW Locomotion(Poses Only):** Focuses on pose-based locomotion, providing responsive and fluid movements for avatars in adult-themed environments, while maintaining a lower file size. This version is ideal for creators seeking lightweight, pose-driven interactions.
