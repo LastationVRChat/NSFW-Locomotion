@@ -37,6 +37,8 @@ NSFW Locomotion for VRChat Avatars is a highly customizable and dynamic movement
   - **NSFW Locomotion(Poses Only):** Focuses on pose-based locomotion, providing responsive and fluid movements for avatars in adult-themed environments, while maintaining a lower file size. This version is ideal for creators seeking lightweight, pose-driven interactions.
   - **NSFW Locomotion(Emotes + Poses):** Extends the functionality to include full emotes, dynamic movements, and custom animations alongside the pose features. This version offers a richer interaction experience for users and avatars, perfect for immersive roleplay and interaction in NSFW-themed worlds.
 
+</div>
+
 NSFW Locomotion is available for both Unity 2019 and 2022. Choose the version that matches the Unity version you're using. There are options for a full version with all features or a poses-only version for a reduced upload size.
 
 ### Unity 2022 Versions
