@@ -15,6 +15,8 @@ A custom **NSFW** version of [GoGo Loco](https://teeth-fetch-gdl.craft.me/CxY701
 
 ![NSFW Locomotion Banner](./media/NSFWLocomotionBanner.png)
 NSFW Locomotion for VRChat Avatars is a highly customizable and dynamic movement solution designed to elevate the functionality and immersive experience of adult-themed avatars. Built on the foundation of the renowned "GoGo Loco" system by Franada, this enhanced locomotion framework retains all the core features of GoGo Loco while introducing two versions for lightweight (pose only) or standard (emotes + poses).
+
+
 [![Lastation Discord](https://discord.com/api/guilds/979168103063765022/widget.png?style=banner2)](https://discord.gg/lastation)
 
 </div>
