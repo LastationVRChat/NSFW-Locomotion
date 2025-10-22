@@ -2,14 +2,6 @@
 
 # NSFW Locomotion (Unity 2019 - Full Version)
 
-> [!CAUTION]
-> ## ⚠️ THIS VERSION IS DEPRECATED ⚠️
-> **Unity 2019 support has been discontinued.** This version will no longer receive updates, bug fixes, or new features.
-> 
-> **Please upgrade to Unity 2022 for continued support and the latest features.**
-> 
-> [➡️ Switch to Unity 2022 Full Version](https://github.com/LastationVRChat/NSFW-Locomotion/tree/2022/full)
-
 A custom **NSFW** version of [GoGo Loco](https://teeth-fetch-gdl.craft.me/CxY701Ne9Ng5Ev) v1.8.3 (by [Franada](https://twitter.com/franadaVRC))
 
 [![Download Now](https://github.com/LastationVRChat/NSFW-Locomotion/blob/main/media/Download_Button.png)](https://github.com/LastationVRChat/NSFW-Locomotion/releases/download/v1.8.3-NSFW-1.1.1/NSFW.Locomotion-v1.8.3-NSFW-1.1.1-Full-u2019.unitypackage)
@@ -24,6 +16,14 @@ A custom **NSFW** version of [GoGo Loco](https://teeth-fetch-gdl.craft.me/CxY701
 ![NSFW Locomotion Banner](https://github.com/LastationVRChat/NSFW-Locomotion/blob/main/media/NSFWLocomotionBanner.png)
 
 </div>
+
+> [!CAUTION]
+> ## ⚠️ THIS VERSION IS DEPRECATED ⚠️
+> **Unity 2019 support has been discontinued.** This version will no longer receive updates, bug fixes, or new features.
+> 
+> **Please upgrade to Unity 2022 for continued support and the latest features.**
+> 
+> [➡️ Switch to Unity 2022 Full Version](https://github.com/LastationVRChat/NSFW-Locomotion/tree/2022/full)
 
 > [!IMPORTANT]
 > **Do NOT include both NSFW GoGo Loco and regular GoGo Loco in the same project, as they share similar Menu/Layer names and will conflict.**
