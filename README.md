@@ -2,6 +2,14 @@
 
 # NSFW Locomotion (Unity 2019)
 
+> [!CAUTION]
+> ## ⚠️ THIS VERSION IS DEPRECATED ⚠️
+> **Unity 2019 support has been discontinued.** This version will no longer receive updates, bug fixes, or new features.
+> 
+> **Please upgrade to Unity 2022 for continued support and the latest features.**
+> 
+> [➡️ Switch to Unity 2022 Version](https://github.com/LastationVRChat/NSFW-Locomotion/tree/2022/VPM)
+
 A custom **NSFW** version of [GoGo Loco](https://teeth-fetch-gdl.craft.me/CxY701Ne9Ng5Ev) v1.8.3 (by [Franada](https://twitter.com/franadaVRC))
 
 [![Download Now](https://github.com/LastationVRChat/NSFW-Locomotion/blob/main/media/Download_Button.png)](https://lastationvrchat.github.io/Lastation-Package-Listing/)
@@ -19,6 +27,19 @@ A custom **NSFW** version of [GoGo Loco](https://teeth-fetch-gdl.craft.me/CxY701
 
 > [!IMPORTANT]
 > **Do NOT include both NSFW GoGo Loco and regular GoGo Loco in the same project, as they share similar Menu/Layer names and will conflict.**
+
+---------------------------------------
+
+## Deprecation Notice
+
+**This Unity 2019 version is no longer actively maintained.** We recommend upgrading to Unity 2022 to receive:
+- Latest features and improvements
+- Bug fixes and optimizations
+- Continued support and updates
+- Better compatibility with modern VRChat features
+- Seamless VCC integration
+
+**[Migrate to Unity 2022 →](https://github.com/LastationVRChat/NSFW-Locomotion/tree/2022/VPM)**
 
 ---------------------------------------
 
@@ -43,6 +64,9 @@ NSFW Locomotion for Unity 2019 includes two versions:
 > Currently does not support GoGoLoco Beyond, but future updates may add support.
 
 ## Installation
+
+> [!WARNING]
+> This is a deprecated version. We strongly recommend upgrading to Unity 2022 for the best experience.
 
 The installation process is now simplified with the [Lastation Package Listing (LPL)](https://lastationvrchat.github.io/Lastation-Package-Listing/) and [VRChat Creator Companion (VCC)](https://vcc.docs.vrchat.com/). This project relies on [VRCFury](https://vrcfury.com/download/) for seamless setup. Follow the steps below:
 
@@ -83,4 +107,8 @@ The installation process is now simplified with the [Lastation Package Listing (
 
 ---------------------------------------
 
+## Support
+
 Enjoy using NSFW Locomotion! If you have any issues or suggestions, please check the repository's [Issues page](https://github.com/LastationVRChat/NSFW-Locomotion/issues) or reach out to us on [Discord](https://discord.gg/lastation).
+
+**Note:** Priority support is given to Unity 2022 users. Unity 2019 issues may receive limited attention.
