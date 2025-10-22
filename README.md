@@ -2,6 +2,14 @@
 
 # NSFW Locomotion (Unity 2019 - Full Version)
 
+> [!CAUTION]
+> ## ⚠️ THIS VERSION IS DEPRECATED ⚠️
+> **Unity 2019 support has been discontinued.** This version will no longer receive updates, bug fixes, or new features.
+> 
+> **Please upgrade to Unity 2022 for continued support and the latest features.**
+> 
+> [➡️ Switch to Unity 2022 Full Version](https://github.com/LastationVRChat/NSFW-Locomotion/tree/2022/full)
+
 A custom **NSFW** version of [GoGo Loco](https://teeth-fetch-gdl.craft.me/CxY701Ne9Ng5Ev) v1.8.3 (by [Franada](https://twitter.com/franadaVRC))
 
 [![Download Now](https://github.com/LastationVRChat/NSFW-Locomotion/blob/main/media/Download_Button.png)](https://github.com/LastationVRChat/NSFW-Locomotion/releases/download/v1.8.3-NSFW-1.1.1/NSFW.Locomotion-v1.8.3-NSFW-1.1.1-Full-u2019.unitypackage)
@@ -22,6 +30,18 @@ A custom **NSFW** version of [GoGo Loco](https://teeth-fetch-gdl.craft.me/CxY701
 
 ---------------------------------------
 
+## Deprecation Notice
+
+**This Unity 2019 version is no longer actively maintained.** We recommend upgrading to Unity 2022 to receive:
+- Latest features and improvements
+- Bug fixes and optimizations
+- Continued support and updates
+- Better compatibility with modern VRChat features
+
+**[Migrate to Unity 2022 Full Version →](https://github.com/LastationVRChat/NSFW-Locomotion/tree/2022/full)**
+
+---------------------------------------
+
 ## Features
 
 This version works for Unity 2019, it includes:
@@ -34,10 +54,11 @@ This version works for Unity 2019, it includes:
 
 > [!NOTE]
 > Currently does not support GogoLoco Beyond.
->
-> We do plan, however, to add support in the future!
 
 ## Installation
+
+> [!WARNING]
+> This is a deprecated version. Consider upgrading to Unity 2022 before installation.
 
 Since this project includes installer prefabs for [VRCFury](https://vrcfury.com/), the process of installation is quite easy. Follow these steps:
 
@@ -48,3 +69,11 @@ Since this project includes installer prefabs for [VRCFury](https://vrcfury.com/
 5. Drag the respective prefab that you want to use into your avatar's hierarchy:
    - `GogoLoco All (VRCFury).prefab` **if Write Defaults = OFF**
    - `GogoLoco All WD (VRCFury).prefab` **if Write Defaults = ON**
+
+---------------------------------------
+
+## Support
+
+For support, please visit the [Issues page](https://github.com/LastationVRChat/NSFW-Locomotion/issues) or join us on [Discord](https://discord.gg/lastation).
+
+**Note:** Priority support is given to Unity 2022 users. Unity 2019 issues may receive limited attention.
