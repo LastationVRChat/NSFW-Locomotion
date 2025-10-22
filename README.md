@@ -35,17 +35,25 @@ NSFW Locomotion for VRChat Avatars is a highly customizable and dynamic movement
 
 ---------------------------------------
 
-NSFW Locomotion is available for both Unity 2019 and 2022. Choose the version that matches the Unity version you're using. There are options for a full version with all features or a poses-only version for a reduced upload size.
+## Unity Version Support
 
-### Unity 2022 Versions
+NSFW Locomotion is available for **Unity 2022**. 
+
+> [!NOTE]
+> **Unity 2019 versions are now deprecated.** While still accessible in the `deprecated/2019/*` branches, they will no longer receive updates or support. We strongly recommend migrating to Unity 2022 for the best experience and continued updates.
+
+### Unity 2022 Versions (Recommended)
 
 - [Full Version (Emotes + Poses)](https://github.com/LastationVRChat/NSFW-Locomotion/tree/2022/full)
 - [Poses Version (Poses Only)](https://github.com/LastationVRChat/NSFW-Locomotion/tree/2022/poses)
 
-### Unity 2019 Versions
+### Unity 2019 Versions (Deprecated)
 
-- [Full Version (Emotes + Poses)](https://github.com/LastationVRChat/NSFW-Locomotion/tree/2019/full)
-- [Poses Version (Poses Only)](https://github.com/LastationVRChat/NSFW-Locomotion/tree/2019/poses)
+> [!WARNING]
+> **These versions are no longer maintained.** Please upgrade to Unity 2022 for continued support and updates.
+
+- [Full Version (Emotes + Poses)](https://github.com/LastationVRChat/NSFW-Locomotion/tree/deprecated/2019/full)
+- [Poses Version (Poses Only)](https://github.com/LastationVRChat/NSFW-Locomotion/tree/deprecated/2019/poses)
 
 > [!NOTE]
 > Currently does not support GoGoLoco Beyond, but future updates may add support.
