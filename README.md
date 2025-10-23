@@ -18,7 +18,7 @@ A custom **NSFW** version of [GoGo Loco](https://teeth-fetch-gdl.craft.me/CxY701
 
 [![GitHub License](https://img.shields.io/github/license/LastationVRChat/NSFW-Locomotion?style=for-the-badge&labelColor=c92078&color=e33b92)](https://github.com/LastationVRChat/NSFW-Locomotion/blob/main/LICENSE)
 [![GitHub Downloads](https://img.shields.io/github/downloads/LastationVRChat/NSFW-Locomotion/total?style=for-the-badge&labelColor=c92078&color=e33b92)](https://github.com/LastationVRChat/NSFW-Locomotion/releases/latest)
-[![Creator](https://img.shields.io/badge/Created%20By-Drake-696969?style=for-the-badge&labelColor=c92078&color=e33b92)](https://vrchat.com/home/user/usr_415fe19c-5030-429a-a6af-2121e304010e)
+[![Creator](https://img.shields.io/badge/Created%20By-Drake-696969?style=for-the-badge&labelColor=c92078&color=e33b92)](https://vrchat.com/home/user/usr_0da079cb-7a81-4eb5-846c-a21275dceb87)
 [![Maintainer](https://img.shields.io/badge/Maintained%20By-KuryKat-696969?style=for-the-badge&labelColor=c92078&color=e33b92)](https://vrchat.com/home/user/usr_88edd638-41f7-4b86-81d2-425589e38828)
 
 ![NSFW Locomotion Banner](https://github.com/LastationVRChat/NSFW-Locomotion/blob/main/media/NSFWLocomotionBanner.png)
