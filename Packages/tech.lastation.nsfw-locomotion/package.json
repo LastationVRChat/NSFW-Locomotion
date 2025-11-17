@@ -17,7 +17,7 @@
 		"Assets\\GoGo\\NSFW Locomotion" : "1915f35154c7ba348b0c5f1746387923"
 	},
 	"vpmDependencies" : {
-		"com.vrchat.avatars" : ">=3.5.0 < 3.8.X",
+		"com.vrchat.avatars" : ">=3.5.0",
 		"com.vrcfury.vrcfury": ">=1.1000.0"
 	}
 }
